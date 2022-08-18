@@ -7,6 +7,10 @@ Project 4:  <br>
 Project 5:  <br>
 
 # Branching Strategy
+For the branching strategy of my project I will be using GitHub Flow.<br>
+Github flow is an alternative to gitflow, but for smaller teams. <br>
+Developers create branches that stem from the main branch. This isolates each branch when merged back to the main.<br>
+After merging the isolated branch is deleted.
 
 # Git Ignore
 There is no explicit git ignore command,therefore the .gitignore file will be edited and committed by manually when I have new files to ignore.

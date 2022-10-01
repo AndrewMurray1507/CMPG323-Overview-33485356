@@ -2,7 +2,7 @@
 # Repositories 
 Project 1: <a href="https://github.com/AndrewMurray1507/CMPG323-Overview-33485356">CMPG323-Overview-33485356 Repository</a>   <br>
 Project 2: <a href="https://github.com/AndrewMurray1507/CMPG-323-Project-2--33485356"> Project2-33485356 Repository</a> <br>
-Project 3:  <br>
+Project 3: <a https://github.com/AndrewMurray1507/cmpg323p3</a> <br>
 Project 4:  <br>
 Project 5:  <br>
 
